@@ -1,0 +1,5 @@
+class RopeNode {
+}
+
+class Rope {
+}
