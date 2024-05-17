@@ -1,5 +1,5 @@
 class RopeNode {
 }
 
-class Rope {
+export class Rope {
 }
